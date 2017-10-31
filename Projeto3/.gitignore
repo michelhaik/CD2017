@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Rproj
+.Rproj.RData
+
+lib/python/.ipynb_checkpoints/*
+tutorials/*
+lib/R/*
+
+.git/
