@@ -9,3 +9,5 @@ tutorials/*
 lib/R/*
 
 .git/
+
+.ipynb_checkpoints
